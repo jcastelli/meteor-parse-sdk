@@ -1,5 +1,5 @@
 {
-  "name": "Parse SDK",
+  "name": "parse-sdk",
   "description": "The Parse.com SDK – Storage, analytics and other back-end support for your awesome Meteor app.",
   "homepage": "https://github.com/jcastelli/meteor-parse-sdk",
   "author": "Joe Castelli {http://joecastelli.com}",
