@@ -1,9 +1,10 @@
 This package adds the Parse SDK to your Meteor.js project – www.parse.com.
 
-After installing this package, you can create a Parse account, initialize Parse and begin leveraging its backend awesomeness in your Meteor app.
+Currently loads the SDK on the client and server.
 
-## Install the package with Meteorite
-`> mrt add parse-sdk`
+## Install the package with [Meteorite](https://atmosphere.meteor.com/wtf/app)
+
+`mrt add parse-sdk`
 
 ## Usage (Coffeescript)
 
