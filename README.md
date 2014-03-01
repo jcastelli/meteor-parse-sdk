@@ -7,17 +7,4 @@ After installing this package, you can create a Parse account, initialize Parse 
 
 ## Usage
 
-Stuff.
-
-Example:
-
-**my-template.handlebars**
-```
-hello, {{name}}
-```
-
-**my-server-code.js**
-```
-Handlebars.templates['my-template']({name: 'Chris'});
-// > hello, Chris
-```
+I'll update this shortly...
