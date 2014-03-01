@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-  api.add_files('parse.js', ['client', 'server']);
+  api.add_files('parse-sdk.js', ['client', 'server']);
 });
