@@ -1,4 +1,4 @@
-This package adds the Parse SDK to your Meteor.js project – www.parse.com.
+This package adds the [Parse](www.parse.com) SDK to your Meteor.js project.
 
 Currently loads the SDK on the client and server.
 
